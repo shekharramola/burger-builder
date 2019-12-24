@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ec1246bf.chunk.css",
-    "main.js": "/static/js/main.06aaced4.chunk.js",
-    "main.js.map": "/static/js/main.06aaced4.chunk.js.map",
+    "main.js": "/static/js/main.16bd4a29.chunk.js",
+    "main.js.map": "/static/js/main.16bd4a29.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dea84fda.js",
     "runtime-main.js.map": "/static/js/runtime-main.dea84fda.js.map",
     "static/js/2.6baf8192.chunk.js": "/static/js/2.6baf8192.chunk.js",
     "static/js/2.6baf8192.chunk.js.map": "/static/js/2.6baf8192.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.487eae2b8f602d09dcaae83de6130cbb.js": "/precache-manifest.487eae2b8f602d09dcaae83de6130cbb.js",
+    "precache-manifest.abc55f684877b4793cb51b5e0604da1e.js": "/precache-manifest.abc55f684877b4793cb51b5e0604da1e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ec1246bf.chunk.css.map": "/static/css/main.ec1246bf.chunk.css.map",
     "static/media/burger-logo.png": "/static/media/burger-logo.b8503d26.png"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dea84fda.js",
     "static/js/2.6baf8192.chunk.js",
     "static/css/main.ec1246bf.chunk.css",
-    "static/js/main.06aaced4.chunk.js"
+    "static/js/main.16bd4a29.chunk.js"
   ]
 }
